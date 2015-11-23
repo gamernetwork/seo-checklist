@@ -1,11 +1,5 @@
 # SEO Checklist
 
-Thank you for downloading the SEO checklist. Learn it by heart or simply print it out for your next SEO project.
-
-You can consult the [complete SEO session](http://webdesign.tutsplus.com/sessions/seo-fundamentals-for-web-designers/) on Webdesigntuts+ for future reference.
-
-***
-
 ## On-site SEO
 
 These SEO techniques can influence the entire website.
