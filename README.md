@@ -10,7 +10,7 @@ Contains guides (see wiki) and issue templates you can copy and paste into your 
   - Analytics
   - Ads
   - Pagespeed
-  - [[Security]]
+  - Security
 
 ## Credits
 
