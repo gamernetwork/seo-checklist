@@ -44,44 +44,10 @@
 
 - [ ] **Meta description**: change the description of a page in the SERPs by adding a meta-description tag. A good description convinces surfers to click on the link. Don't forget to use keywords because they appear in bold. 
 
-###Social Snippets
-
-- [ ] **Thumbnail**: choose an eye-catching thumbnail that's at least 200 x 200 pixels. 
-
-- [ ] **Title**: the title acts as an anchor text for your social snippet. 
-
-- [ ] **URL**: the URL of the underlying page. Don't forget to tag your URL using Google's URL builder for additional information in Google Analytics. 
-
-- [ ] **Description**: a short description of the content. You can use the meta-description for this. 
-
-- [ ] **Twitter card**: Twitter Cards use the Open Graph tags, supplemented with several Twitter-specific tags. 
-
-### Local Search
-
-- [ ] **Local optimization**: optimize your page as you would do for any other keyword. Use the location (for example Palo Alto) in the page title, url and content. 
-
-- [ ] **Structured data**: location information can also be added via structured data. 
-
-- [ ] **Multiple locations**: if you have a chain of businesses, create a unique page with a separate URL for each location. 
-
-- [ ] **Google+**: create a Google+ Local page for your business.
-
-- [ ] **Local listing**: get links from local listings (YellowPages, Foursquare, Yelp...) to improve your visibility for local search queries. 
-
 ---
 
 ## Off-site SEO
 
-Techniques that are beyond our own website.
+- [ ] **Inbound links from Network**: get this site linked from footers of network sites. 
 
-- [ ] **Inbound links**: check the number of inbound links. 
 
-- [ ] **Authority**: links from sites with a high domain authority are more valuable.
-
-- [ ] **Anchor text**: the anchor text is the text that is used to link to your site. Keywords in an anchor text are very useful, but don't overdo this. Make sure your link profile looks natural. 
-
-- [ ] **Diversity**: try to gain links from multiple, relevant domains instead of only a handful of sites.
-
-- [ ] **Nofollow**: inbound links that use the `rel="nofollow"` tag passe no PageRank 
-
-- [ ] **Bad links**: links from spammy sites can hurt your rankings. Contact the webmaster to remove them or use the Disavow Tool. 
