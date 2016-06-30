@@ -1,5 +1,17 @@
-# SEO-Checklist
+# Pre-launch site tests and checklists.
 
-Example SEO checklist for your project that you should use as the basis for a pre-flight GitHub issue in all web projects.
+Don't launch a site without going through these checks!
 
-Based on a list by [[github.com/tutsplus]]
+Contains guides (see wiki) and issue templates you can copy and paste into your project issues.
+
+## Master list
+
+  - SEO
+  - Analytics
+  - Ads
+  - Pagespeed
+  - [[Security]]
+
+## Credits
+
+SEO list Based on work by [[github.com/tutsplus]].
